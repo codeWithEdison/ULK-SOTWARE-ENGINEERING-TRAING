@@ -196,30 +196,155 @@ Welcome to the Web Development course! This 6-week curriculum is designed to int
 - **Tasks:**
   - Build a simple REST API with Express.js.
 
-### Week 5: Databases and Full-Stack Development
+# Week 5: Databases and Full-Stack Development
 
-#### Day 1: Introduction to Databases
-- **Content:**
-  - Relational databases: tables, rows, columns.
-  - SQL basics: SELECT, INSERT, UPDATE, DELETE.
-  - Setting up PostgreSQL: installation, basic commands.
-- **Resources:**
-  - [SQLBolt: Learn SQL](https://sqlbolt.com/)
-  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
-- **Tasks:**
-  - Learn SQL basics.
-  - Install and set up PostgreSQL.
+## Day 1: Introduction to Databases
+
+### Content:
+- Relational databases: tables, rows, columns.
+- SQL basics: SELECT, INSERT, UPDATE, DELETE.
+- Setting up PostgreSQL: installation, basic commands.
+
+### Resources:
+- [SQLBolt: Learn SQL](https://sqlbolt.com/)
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+
+### Tasks:
+- Learn SQL basics.
+- Install and set up PostgreSQL.
+
+---
+
+## Day 2: Working with Databases in Node.js
+
+### Content:
+- Connecting Node.js to PostgreSQL: npm packages.
+- CRUD operations with Node.js and PostgreSQL.
+- Error handling and asynchronous operations.
+
+### Resources:
+- [Node.js PostgreSQL Tutorial](https://node-postgres.com/)
+- [Using PostgreSQL with Node.js](https://www.sitepoint.com/using-node-postgres-node-js/)
+
+### Tasks:
+- Connect Node.js application to PostgreSQL.
+- Perform CRUD operations using Node.js.
+
+---
+
+## Day 3: Authentication and Authorization
+
+### Content:
+- Authentication vs. authorization.
+- User authentication with Passport.js.
+- JWT (JSON Web Tokens) for session management.
+
+### Resources:
+- [Passport.js Documentation](http://www.passportjs.org/docs/)
+- [JWT.io](https://jwt.io/)
+
+### Tasks:
+- Implement user authentication using Passport.js.
+- Secure routes with JWT.
+
+---
+
+## Day 4: Full-Stack Development
+
+### Content:
+- Integrating frontend (HTML/CSS/JavaScript) with backend (Node.js/Express.js/PostgreSQL).
+- Fetch API for client-server communication.
+- Handling CORS (Cross-Origin Resource Sharing).
+
+### Resources:
+- [MDN Web Docs: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [MDN Web Docs: CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
+### Tasks:
+- Create API endpoints to interact with frontend.
+- Implement client-server communication using Fetch API.
+
+---
+
+## Day 5: Project 5
+
+### Content:
+- Full-stack CRUD application using Node.js, Express.js, PostgreSQL, and HTML/CSS/JavaScript.
+
+### Resources:
+- [Full-Stack CRUD Application Tutorial](https://www.freecodecamp.org/news/building-a-simple-crud-app-with-node-js-express-and-postgresql/)
+  
+### Tasks:
+- Build a full-stack CRUD application integrating all learned concepts.
+
+# Week 6: Advanced Topics and Final Project
+
+## Day 1: Advanced JavaScript Concepts
+
+### Content:
+- ES6+ features: arrow functions, classes, modules.
+- Functional programming principles: immutability, pure functions.
+- Error handling: try/catch, throwing errors.
+
+### Resources:
+- [MDN Web Docs: JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Functional Programming in JavaScript](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+
+### Tasks:
+- Implement ES6+ features in your projects.
+- Apply functional programming principles.
+
+---
+
+## Day 2: Advanced Frontend Techniques
+
+### Content:
+- Performance optimization: lazy loading, code splitting.
+- State management with Redux: actions, reducers, store.
+- Testing frontend applications: unit tests, integration tests.
+
+### Resources:
+- [Redux Official Documentation](https://redux.js.org/)
+- [Testing JavaScript](https://testingjavascript.com/)
+
+### Tasks:
+- Optimize frontend performance.
+- Implement state management with Redux.
+- Write tests for frontend components.
+
+---
+
+## Day 3: Deployment and Continuous Integration/Continuous Deployment (CI/CD)
+
+### Content:
+- Deployment strategies: deploying to Heroku, Netlify, or AWS.
+- Setting up CI/CD pipelines: GitHub Actions, Travis CI.
+
+### Resources:
+- [Heroku Deployment Guide](https://devcenter.heroku.com/)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+
+### Tasks:
+- Deploy your projects to a hosting platform.
+- Set up a basic CI/CD pipeline.
+
+---
+
+## Day 4-5: Final Project
+
+### Content:
+- Capstone project: design and build a complete web application from scratch.
+
+### Resources:
+- [Project Ideas](https://www.reddit.com/r/learnprogramming/comments/3bqqez/1000_beginner_programming_projects_xpost/)
+
+### Tasks:
+- Plan, design, and implement your final project.
+- Showcase your skills and apply all learned concepts.
 
 ## Additional Resources
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
 
-## License
-
-This course content is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgements
-
-Special thanks to all contributors and the open-source community for their valuable resources and support.
