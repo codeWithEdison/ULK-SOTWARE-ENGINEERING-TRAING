@@ -1,5 +1,5 @@
 # ULK-SOTWARE-ENGINEERING-TRAING
-# Web Development Course
+#Full Stack Web Development Course
 
 Welcome to the Web Development course! This 6-week curriculum is designed to introduce you to the fundamental concepts of web development, covering HTML, CSS, JavaScript, and backend basics with Node.js and Express.js. By the end of this course, you will have built several projects and gained a solid foundation in both frontend and backend web development.
 
